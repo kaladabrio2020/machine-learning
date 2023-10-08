@@ -4,4 +4,6 @@ Utilizando Machine Learning para fazer predição, repositório contém alguns d
 
 # Dataset para previsão e classificação
 
-## 
+## Classificação
+
+## Previsão
