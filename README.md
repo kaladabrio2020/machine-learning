@@ -1,7 +1,12 @@
-# Machine Learning Prediction
-Utilizando Machine Learning para fazer predição, repositório contém alguns dataset para essa atividade.
+<div align=center>
+    <img src="https://images.pexels.com/photos/4578660/pexels-photo-4578660.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" height=300/>
+</div>
 
 
+# Machine Learning 
+Pegando vários dataset para fazer a previsão e a classificação de atributos alvos 
+
+-----
 # Dataset para previsão e classificação
 
 ## Classificação
