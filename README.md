@@ -22,3 +22,6 @@ __Tecnicas ultilizadas :__
 ### Stroke
 
 ## Previsão
+
+
+## [Bibliotecas utilizadas](libs/requeriments.txt)
