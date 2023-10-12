@@ -15,7 +15,7 @@ __O que é diabetes ?__ É uma condição que afeta a regulação do açúcar no
 No Conjunto de dados , irei só classificar se 0 não tem diabetes e 1 tem diabetes.\
 &nbsp;
 &nbsp;
-__Tecnicas ultilizadas :__\
+__Tecnicas ultilizadas :__
 1. a
 2. b
 
