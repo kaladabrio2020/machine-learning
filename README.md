@@ -7,7 +7,7 @@
 Pegando vários dataset para fazer a previsão e a classificação de atributos alvos 
 
 -----
-# Dataset para previsão e classificação
+# Dataset para Predição
 
 ## Classificação
 
@@ -20,13 +20,17 @@ __O que é diabetes ?__ É uma condição que afeta a regulação do açúcar no
 No Conjunto de dados , irei só classificar se 0 não tem diabetes e 1 tem diabetes.\
 &nbsp;
 &nbsp;
-__Tecnicas ultilizadas :__
-1. a
-2. b
+__Etapas :__
+1. Analise dos dados
+2. Classifação
+    * Tratamento de dados
+    * Correlação
+    * Definindo hyperametros
+    * 
 
 ### Stroke
 
-## Previsão
+## Regressão
 
 
 ## [Bibliotecas utilizadas](libs/requeriments.txt)
