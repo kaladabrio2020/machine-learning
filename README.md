@@ -25,7 +25,8 @@ __Etapas :__
 
 2. Classifacação
     * Tratamento de dados
-    * Correlação de atributos 
+    * Correlação de atributos
+    * Preprocessamento 
     * Definindo hyperametros 
     * Validação cruzada
     * Escolha do melhor algoritmos
