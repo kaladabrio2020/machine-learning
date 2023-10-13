@@ -22,11 +22,13 @@ No Conjunto de dados , irei só classificar se 0 não tem diabetes e 1 tem diabe
 &nbsp;
 __Etapas :__
 1. Analise dos dados
+
 2. Classifação
     * Tratamento de dados
     * Correlação
-    * Definindo hyperametros
-    * 
+    * Definindo hyperametros 
+    * Validação cruzada
+    * Escolha do melhor algoritmos
 
 ### Stroke
 
