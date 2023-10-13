@@ -37,5 +37,6 @@ __Etapas :__
 
 ## Regressão
 
+## Tecnologias e ferramentas
 
 ## [Bibliotecas utilizadas](libs/requeriments.txt)
