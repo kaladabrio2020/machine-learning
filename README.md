@@ -23,7 +23,7 @@ O que fiz na Classifacação :
 
 
 ### [Stroke classificação]()
-#
+
 
 
 ## Tecnologias e ferramentas
