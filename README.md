@@ -1,13 +1,12 @@
 <div align=center>
-    <img src="https://images.pexels.com/photos/4578660/pexels-photo-4578660.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" height=300/>
+    <img src="https://images.pexels.com/photos/4578660/pexels-photo-4578660.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" height=300 />
 </div>
 
 
 # Machine Learning 
 Pegando vários dataset para fazer a previsão e a classificação de atributos alvos 
 
------
-# Dataset para Predição
+## Datasets
 
 ### [Diabetes classificação](src/DiabetesPrediction.ipynb) 
 <div align='center'>
@@ -26,9 +25,9 @@ O que fiz na Classifacação :
 * Redes Neurais (`keras`)
 
 
-### Stroke
+### [Stroke classificação]()
+#
 
-## Regressão
 
 ## Tecnologias e ferramentas
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
