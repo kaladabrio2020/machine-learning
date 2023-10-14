@@ -17,19 +17,15 @@ Pegando vários dataset para fazer a previsão e a classificação de atributos 
 </div>
 
 __O que é diabetes ?__ É uma condição que afeta a regulação do açúcar no sangue. Existem dois tipos principais: tipo 1, que é uma deficiência na produção de insulina, e tipo 2, que está relacionado a fatores de estilo de vida, como dieta e obesidade. \
-No Conjunto de dados , irei só classificar se 0 não tem diabetes e 1 tem diabetes.\
+No Conjunto de dados , o atributo alvo e `diabetes`.\
 &nbsp;
-&nbsp;
-__Etapas :__
-1. Analise dos dados
-
-2. Classifacação
-    * Tratamento de dados
-    * Correlação de atributos
-    * Préprocessamento 
-    * Definindo hyperametros com o GridSearchCv
-    * Escolha do melhor algoritmos
-    * Redes Neurais
+O que fiz na Classifacação :
+* Tratamento de dados
+* Correlação de atributos
+* Préprocessamento 
+* Definindo hyperametros com o GridSearchCv
+* Escolha do melhor algoritmos
+* Redes Neurais (`keras`)
 
 
 ### Stroke
