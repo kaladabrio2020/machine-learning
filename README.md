@@ -27,8 +27,7 @@ __Etapas :__
     * Tratamento de dados
     * Correlação de atributos
     * Préprocessamento 
-    * Definindo hyperametros 
-    * Validação cruzada
+    * Definindo hyperametros com o GridSearchCv
     * Escolha do melhor algoritmos
     * Redes Neurais
 
