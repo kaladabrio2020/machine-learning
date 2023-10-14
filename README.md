@@ -21,8 +21,6 @@ O que fiz na Classifacação :
 * Escolha do melhor algoritmos
 * Redes Neurais (`keras`)
 
-### [House Price Regression]()
-
 ### [Stroke classificação]()
 
 
