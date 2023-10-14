@@ -40,3 +40,5 @@ __Etapas :__
 ## Tecnologias e ferramentas
 
 ## [Bibliotecas utilizadas](libs/requeriments.txt)
+
+[](src/datasets/QualityPredictionInAMiningProcess/MiningProcess_Flotation_Plant_Database.csv)
