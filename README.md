@@ -11,7 +11,7 @@ Pegando vários dataset para fazer a previsão e a classificação de atributos 
 ### [Diabetes classificação ✔️](src/DiabetesPrediction.ipynb) 
 
 __O que é diabetes ?__ É uma condição que afeta a regulação do açúcar no sangue. \
-No Conjunto de dados , o atributo alvo e `diabetes` contendo o valores não tem diabetes ( `0` ) e  tem diabetes ( `1` ).
+No Conjunto de dados , o atributo alvo é `diabetes` contendo o valores não tem diabetes ( `0` ) e  tem diabetes ( `1` ).
 
 O que fiz na Classifacação :
 * Tratamento de dados
