@@ -8,7 +8,7 @@ Pegando vários dataset para fazer a previsão e a classificação de atributos 
 
 ## Datasets
 
-### [Diabetes classificação ✔️](src/DiabetesPrediction.ipynb) 
+### [Diabetes Classificação ✔️](src/DiabetesPrediction.ipynb) 
 
 __O que é diabetes ?__ É uma condição que afeta a regulação do açúcar no sangue. \
 No Conjunto de dados , o atributo alvo é `diabetes` contendo o valores não tem diabetes ( `0` ) e  tem diabetes ( `1` ).
@@ -21,7 +21,7 @@ O que fiz na Classifacação :
 * Escolha do melhor algoritmos
 * Redes Neurais (`keras`)
 
-### [Stroke classificação](src/StrokePrediction.ipynb)
+### [Acidente Vacular Celebral Classificação](src/StrokePrediction.ipynb)
 
 
 
