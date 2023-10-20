@@ -21,7 +21,8 @@ O que fiz na Classifacação :
 * Escolha do melhor algoritmos
 * Redes Neurais (`keras`)
 
-### [Stroke classificação]()
+### [Stroke classificação](src/StrokePrediction.ipynb)
+
 
 
 
