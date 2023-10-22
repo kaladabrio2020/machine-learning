@@ -20,10 +20,17 @@ O que fiz na Classifacação :
 * Definindo hyperametros com o GridSearchCv
 * Escolha do melhor algoritmos
 * Redes Neurais (`keras`)
+> Obtive bons resultado
 
 ### [Acidente Vacular Celebral Classificação](src/StrokePrediction.ipynb)
-
-
+O que fiz na Classifacação :
+* Tratamento de dados
+* Discretização dos atributo `bmi` ,contudo apartir desse método não obtive bons resultados 
+* Correlação de atributos
+* Pré-processamento 
+* Definindo hyperametros com o GridSearchCv
+* Escolha do melhor algoritmos
+> Conclusão : conjunto de dados precisa de mais dados para fazer uma boa predição
 
 
 ## Tecnologias e ferramentas
@@ -37,12 +44,6 @@ O que fiz na Classifacação :
 
 
 ## [Bibliotecas utilizadas ✔️](libs/requeriments.txt)
-O que fiz na Classifacação :
-* Tratamento de dados
-* Discretização dos atributo `bmi` ,contudo apartir desse método não obtive bons resultados 
-* Correlação de atributos
-* Pré-processamento 
-* Definindo hyperametros com o GridSearchCv
-* Escolha do melhor algoritmos
-> Conclusão : conjunto de dados precisa de mais dados para fazer uma boa predição
+
+
 
