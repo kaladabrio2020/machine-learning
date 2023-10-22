@@ -16,7 +16,7 @@ No Conjunto de dados , o atributo alvo é `diabetes` contendo o valores não tem
 O que fiz na Classifacação :
 * Tratamento de dados
 * Correlação de atributos
-* Préprocessamento 
+* Pré-processamento 
 * Definindo hyperametros com o GridSearchCv
 * Escolha do melhor algoritmos
 * Redes Neurais (`keras`)
@@ -36,5 +36,13 @@ O que fiz na Classifacação :
 
 
 
-## [Bibliotecas utilizadas](libs/requeriments.txt)
+## [Bibliotecas utilizadas ✔️](libs/requeriments.txt)
+O que fiz na Classifacação :
+* Tratamento de dados
+* Discretização dos atributo `bmi` ,contudo apartir desse método não obtive bons resultados 
+* Correlação de atributos
+* Pré-processamento 
+* Definindo hyperametros com o GridSearchCv
+* Escolha do melhor algoritmos
+> Conclusão : conjunto de dados precisa de mais dados para fazer uma boa predição
 
