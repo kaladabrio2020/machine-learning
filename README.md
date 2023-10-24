@@ -26,10 +26,12 @@ O que fiz na Classifacação :
 O que fiz na Classifacação :
 * Tratamento de dados
 * Discretização dos atributo `bmi` ,contudo apartir desse método não obtive bons resultados 
+    * Fazendos sem discretização dos atributos :**bons resultados**
 * Correlação de atributos
 * Pré-processamento 
 * Definindo hyperametros com o GridSearchCv
 * Escolha do melhor algoritmos
+
 > Conclusão : conjunto de dados precisa de mais dados para fazer uma boa predição
 
 
