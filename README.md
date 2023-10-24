@@ -25,8 +25,8 @@ O que fiz na Classifacação :
 ### [Acidente Vacular Celebral Classificação ✔️](src/StrokePrediction.ipynb)
 O que fiz na Classifacação :
 * Tratamento de dados
-* Discretização dos atributo `bmi` ,contudo apartir desse método não obtive bons resultados 
-    * Fazendos sem discretização dos atributos :**bons resultados**
+* Discretização dos atributo `bmi` 
+* Sem discretização dos atributo `bmi` (Fazendo de outra forma)
 * Correlação de atributos
 * Pré-processamento 
 * Definindo hyperametros com o GridSearchCv
