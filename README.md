@@ -22,7 +22,7 @@ O que fiz na Classifacação :
 * Redes Neurais (`keras`)
 > Obtive bons resultado
 
-### [Acidente Vacular Celebral Classificação](src/StrokePrediction.ipynb)
+### [Acidente Vacular Celebral Classificação ✔️](src/StrokePrediction.ipynb)
 O que fiz na Classifacação :
 * Tratamento de dados
 * Discretização dos atributo `bmi` ,contudo apartir desse método não obtive bons resultados 
