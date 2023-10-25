@@ -25,12 +25,16 @@ O que fiz na Classifacação :
 ### [Acidente Vacular Celebral Classificação ✔️](src/StrokePrediction.ipynb)
 O que fiz na Classifacação :
 * Tratamento de dados
-* Discretização dos atributo `bmi` 
-* Sem discretização dos atributo `bmi` (Fazendo de outra forma)
+* Discretização dos atributo `bmi`     (parte 1)
+* Sem discretização dos atributo `bmi` (parte 2)
 * Correlação de atributos
 * Pré-processamento 
 * Definindo hyperametros com o GridSearchCv
 * Escolha do melhor algoritmos
+
+### [Preço de Cadas Previsão](src/HousePricePrediction.ipynb)
+
+
 
 
 ## Tecnologias e ferramentas
