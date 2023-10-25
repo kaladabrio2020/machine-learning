@@ -32,8 +32,6 @@ O que fiz na Classifacação :
 * Definindo hyperametros com o GridSearchCv
 * Escolha do melhor algoritmos
 
-> Conclusão : conjunto de dados precisa de mais dados para fazer uma boa predição
-
 
 ## Tecnologias e ferramentas
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
