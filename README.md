@@ -32,7 +32,12 @@ O que fiz na Classifacação :
 * Definindo hyperametros com o GridSearchCv
 * Escolha do melhor algoritmos
 
-### [Preço de Cadas Previsão](src/HousePricePrediction.ipynb)
+### [Preço de Casas Regressão](src/HousePricePrediction.ipynb)
+* Pré-processamento 
+* BaseEstimator,TransformMixin
+* Pipeline
+* Learning Curve
+* Cross-validation
 
 
 
