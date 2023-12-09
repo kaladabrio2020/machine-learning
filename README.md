@@ -40,6 +40,10 @@ O que fiz na Classifacação :
 * Cross-validation
 
 
+### [Titanic Sobreviventes Classificação](src/TitanicPredictoin.ipynb)
+* Pré-processamento
+* Pipeline
+* Cross-Validation 
 
 
 ## Tecnologias e ferramentas
