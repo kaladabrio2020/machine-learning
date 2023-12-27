@@ -51,6 +51,14 @@ O que fiz na Classifacação :
 * Ensemble
 * Cross-validation
 
+### [Cripto Prices Regression]
+Feito de duas formas (...em progresso)
+* [cripto 1](src/CryptoPrices1.ipynb)
+    * Peguei todos os dados e agrupei pelo número de instancias para não haver uma desbalanceamento muito 
+
+* [cripto 2](src/CryptoPrices2.ipynb) 
+    * Cada dataset terá sua predição
+
 
 ## Tecnologias e ferramentas
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
