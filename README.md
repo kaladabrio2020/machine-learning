@@ -32,7 +32,7 @@ O que fiz na Classifacação :
 * Definindo hyperametros com o GridSearchCv
 * Escolha do melhor algoritmos
 
-### [Preço de Casas Regressão](src/HousePricePrediction.ipynb)
+### [Preço de Casas Regressão](src/HousePricePrediction-Reg.ipynb)
 * Pré-processamento 
 * BaseEstimator,TransformMixin
 * Pipeline
@@ -45,7 +45,7 @@ O que fiz na Classifacação :
 * Pipeline
 * Cross-Validation 
 
-### [Heath Attack Classificação](src/HousePricePrediction.ipynb)
+### [Heath Attack Classificação](src/HousePricePrediction-Reg.ipynb)
 * Pré-processamento
 * Pipeline
 * Ensemble
