@@ -8,7 +8,7 @@ Pegando vários dataset para fazer a previsão e a classificação de atributos 
 
 ## Datasets
 
-### [Diabetes Classificação ✔️](src/DiabetesPred-Clas.ipynb)
+### [Diabetes Classificação ✔️](DiabetesPred-Clas.ipynb)
 
 __O que é diabetes ?__ É uma condição que afeta a regulação do açúcar no sangue. \
 No Conjunto de dados , o atributo alvo é `diabetes` contendo o valores não tem diabetes ( `0` ) e  tem diabetes ( `1` ).
@@ -22,7 +22,7 @@ O que fiz na Classifacação :
 * Redes Neurais (`keras`)
 > Obtive bons resultado
 
-### [Acidente Vacular Celebral Classificação ✔️](src/StrokePred-Clas.ipynb)
+### [Acidente Vacular Celebral Classificação ✔️](StrokePred-Clas.ipynb)
 O que fiz na Classifacação :
 * Tratamento de dados
 * Discretização dos atributo `bmi`     (parte 1)
@@ -32,7 +32,7 @@ O que fiz na Classifacação :
 * Definindo hyperametros com o GridSearchCv
 * Escolha do melhor algoritmos
 
-### [Preço de Casas Regressão](src/HousePricePred-Reg.ipynb)
+### [Preço de Casas Regressão](HousePricePred-Reg.ipynb)
 * Pré-processamento 
 * BaseEstimator,TransformMixin
 * Pipeline
@@ -40,12 +40,12 @@ O que fiz na Classifacação :
 * Cross-validation
 
 
-### [Titanic Sobreviventes Classificação](src/TitanicPred-Clas.ipynb)
+### [Titanic Sobreviventes Classificação](TitanicPred-Clas.ipynb)
 * Pré-processamento
 * Pipeline
 * Cross-Validation 
 
-### [Heath Attack Classificação](src/HousePricePred-Reg.ipynb)
+### [Heath Attack Classificação](HousePricePred-Reg.ipynb)
 * Pré-processamento
 * Pipeline
 * Ensemble
