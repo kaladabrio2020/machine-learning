@@ -22,6 +22,15 @@ O que fiz na Classifacação :
 * Redes Neurais (`keras`)
 > Obtive bons resultado
 
+### [Preço de Casas Regressão](HousePricePred-Reg.ipynb)
+* Pré-processamento 
+* BaseEstimator,TransformMixin
+* Pipeline
+* Learning Curve
+* Cross-validation
+* Redes Neurais (`keras`)
+
+
 ### [Acidente Vacular Celebral Classificação ✔️](StrokePred-Clas.ipynb)
 O que fiz na Classifacação :
 * Tratamento de dados
@@ -31,13 +40,6 @@ O que fiz na Classifacação :
 * Pré-processamento 
 * Definindo hyperametros com o GridSearchCv
 * Escolha do melhor algoritmos
-
-### [Preço de Casas Regressão](HousePricePred-Reg.ipynb)
-* Pré-processamento 
-* BaseEstimator,TransformMixin
-* Pipeline
-* Learning Curve
-* Cross-validation
 
 
 ### [Titanic Sobreviventes Classificação](TitanicPred-Clas.ipynb)
