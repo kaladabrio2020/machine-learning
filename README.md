@@ -32,6 +32,14 @@ O que fiz na Classifacação :
 > Obtive bons resultado
 
 
+### [Cripto Prices Regression]
+Feito de duas formas (...em progresso)
+* [cripto 1](src/CryptoPrices1.ipynb)
+    * Peguei todos os dados e agrupei pelo número de instancias para não haver uma desbalanceamento muito 
+
+* [cripto 2](src/CryptoPrices2.ipynb) 
+    * Cada dataset terá sua predição
+    
 
 ### [Acidente Vacular Celebral Classificação ✔️](StrokePred-Clas.ipynb)
 O que fiz na Classifacação :
@@ -55,13 +63,7 @@ O que fiz na Classifacação :
 * Ensemble
 * Cross-validation
 
-### [Cripto Prices Regression]
-Feito de duas formas (...em progresso)
-* [cripto 1](src/CryptoPrices1.ipynb)
-    * Peguei todos os dados e agrupei pelo número de instancias para não haver uma desbalanceamento muito 
 
-* [cripto 2](src/CryptoPrices2.ipynb) 
-    * Cada dataset terá sua predição
 
 
 ## Tecnologias e ferramentas
