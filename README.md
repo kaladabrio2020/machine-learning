@@ -8,6 +8,15 @@ Pegando vários dataset para fazer a previsão e a classificação de atributos 
 
 ## Datasets
 
+### [Preço de Casas Regressão ✔️](HousePricePred-Reg.ipynb)
+* Pré-processamento 
+* BaseEstimator,TransformMixin
+* Pipeline
+* Learning Curve
+* Cross-validation
+* Redes Neurais (`keras`)
+
+
 ### [Diabetes Classificação ✔️](DiabetesPred-Clas.ipynb)
 
 __O que é diabetes ?__ É uma condição que afeta a regulação do açúcar no sangue. \
@@ -22,13 +31,6 @@ O que fiz na Classifacação :
 * Redes Neurais (`keras`)
 > Obtive bons resultado
 
-### [Preço de Casas Regressão](HousePricePred-Reg.ipynb)
-* Pré-processamento 
-* BaseEstimator,TransformMixin
-* Pipeline
-* Learning Curve
-* Cross-validation
-* Redes Neurais (`keras`)
 
 
 ### [Acidente Vacular Celebral Classificação ✔️](StrokePred-Clas.ipynb)
@@ -42,7 +44,7 @@ O que fiz na Classifacação :
 * Escolha do melhor algoritmos
 
 
-### [Titanic Sobreviventes Classificação](TitanicPred-Clas.ipynb)
+### [Titanic Sobreviventes Classificação ✔️](TitanicPred-Clas.ipynb)
 * Pré-processamento
 * Pipeline
 * Cross-Validation 
