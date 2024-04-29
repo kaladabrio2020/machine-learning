@@ -12,7 +12,6 @@ Pegando vários dataset para fazer a previsão e a classificação de atributos 
 * Pré-processamento 
 * BaseEstimator,TransformMixin
 * Pipeline
-* Learning Curve
 * Cross-validation
 * Redes Neurais (`keras`)
 
