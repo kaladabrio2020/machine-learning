@@ -8,7 +8,7 @@ Pegando vários dataset para fazer a previsão e a classificação de atributos 
 
 ## Datasets
 
-### [Preço de Casas Regressão ✔️](/housePrice_reg.ipynb)
+### [Preço de Casas Regressão ✔️](/ml-regression/housePrice_reg.ipynb)
 * Pré-processamento 
 * BaseEstimator,TransformMixin
 * Pipeline
@@ -16,7 +16,7 @@ Pegando vários dataset para fazer a previsão e a classificação de atributos 
 * Redes Neurais (`keras`)
 
 
-### [Diabetes Classificação ✔️](/diabetes_clas.ipynb)
+### [Diabetes Classificação ✔️](/ml-classification/diabetes_clas.ipynb)
 
 __O que é diabetes ?__ É uma condição que afeta a regulação do açúcar no sangue. \
 No Conjunto de dados , o atributo alvo é `diabetes` contendo o valores não tem diabetes ( `0` ) e  tem diabetes ( `1` ).
@@ -33,14 +33,14 @@ O que fiz na Classifacação :
 
 ### [Cripto Prices Regression]
 Feito de duas formas (...em progresso)
-* [cripto 1](/cryptoPrices_reg1.ipynb)
+* [cripto 1](/ml-regression/cryptoPrices_reg1.ipynb)
     * Peguei todos os dados e agrupei pelo número de instancias para não haver uma desbalanceamento muito 
 
-* [cripto 2](/cryptoPrices_reg1.ipynb) 
+* [cripto 2](/ml-regression/cryptoPrices_reg2.ipynb) 
     * Cada dataset terá sua predição
     
 
-### [Acidente Vacular Celebral Classificação ✔️](stroke_clas.ipynb)
+### [Acidente Vacular Celebral Classificação ✔️](/ml-classification/stroke_clas.ipynb)
 O que fiz na Classifacação :
 * Tratamento de dados
 * Discretização dos atributo `bmi`     (parte 1)
@@ -51,7 +51,7 @@ O que fiz na Classifacação :
 * Escolha do melhor algoritmos
 
 
-### [Titanic Sobreviventes Classificação ✔️](TitanicPred-Clas.ipynb)
+### [Titanic Sobreviventes Classificação ✔️](/ml-classification/titanic_clas.ipynb)
 * Pré-processamento
 * Pipeline
 * Cross-Validation 
