@@ -56,6 +56,8 @@ O que fiz na Classifacação :
 * Pipeline
 * Cross-Validation 
 
+### [Disturbio do Sono(projeto muito antigo)](/ml-classification/DisturbioDoSono_clas.ipynb)
+
 ### [Heath Attack Classificação](HousePricePred-Reg.ipynb)
 * Pré-processamento
 * Pipeline
