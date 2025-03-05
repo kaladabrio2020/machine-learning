@@ -1,55 +1,74 @@
-<div align=center>
-    <img src="https://images.pexels.com/photos/4578660/pexels-photo-4578660.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" height=300 />
+<div align="center">
+    <img src="https://images.pexels.com/photos/4578660/pexels-photo-4578660.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" height="300" />
 </div>
 
+# 📌 Machine Learning Project
+Este repositório contém implementações de diversos modelos de Machine Learning aplicados a diferentes conjuntos de dados para resolver problemas de **classificação** e **regressão**.
 
-# Machine Learning 
-Pegando vários dataset para fazer a previsão e a classificação de atributos alvos 
+## 📂 Datasets Utilizados
 
-## Datasets
+### 🏡 Previsão de Preço de Casas (Regressão) ✔️
+📌 [Notebook](ml-regression/housePrice_reg.ipynb)
 
-### [Preço de Casas Regressão ✔️](/ml-regression/housePrice_reg.ipynb)
+### 🏥 Diagnóstico de Diabetes (Classificação) ✔️
+📌 [Notebook](ml-classification/diabetes_clas.ipynb)
 
+### 📉 Previsão de Preços de Criptomoedas (Regressão) ⚙️ *(Em progresso)*
+* **Método 1:** [Notebook](ml-regression/cryptoPrices_reg1.ipynb)  
+  * Os dados foram agrupados para evitar desbalanceamento.
+* **Método 2:** [Notebook](ml-regression/cryptoPrices_reg2.ipynb)  
+  * Cada conjunto de dados possui sua própria predição.
 
-### [Diabetes Classificação ✔️](/ml-classification/diabetes_clas.ipynb)
+### 🧠 Acidente Vascular Cerebral (Classificação) ✔️
+📌 [Notebook](ml-classification/stroke_clas.ipynb)
 
+### 🚢 Sobreviventes do Titanic (Classificação) ✔️
+📌 [Notebook](ml-classification/titanic_clas.ipynb)
 
-
-### [Cripto Prices Regression]
-Feito de duas formas (...em progresso)
-* [cripto 1](/ml-regression/cryptoPrices_reg1.ipynb)
-    * Peguei todos os dados e agrupei pelo número de instancias para não haver uma desbalanceamento muito 
-
-* [cripto 2](/ml-regression/cryptoPrices_reg2.ipynb) 
-    * Cada dataset terá sua predição
-    
-
-### [Acidente Vacular Celebral Classificação ✔️](/ml-classification/stroke_clas.ipynb)
-
-
-### [Titanic Sobreviventes Classificação ✔️](/ml-classification/titanic_clas.ipynb)
-
-
-### [Disturbio do Sono(projeto muito antigo) ✔️](/ml-classification/DisturbioDoSono_clas.ipynb)
+### 🌙 Distúrbio do Sono *(Projeto antigo)* ✔️
+📌 [Notebook](ml-classification/DisturbioDoSono_clas.ipynb)
 
 
 
-### [Heath Attack Classificação](/ml-regression/housePrice_reg.ipynb)
+---
 
-### 
+## 🛠 Tecnologias e Ferramentas Utilizadas
 
-
-## Tecnologias e ferramentas
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)\
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+---
 
+## 📦 Dependências
+Para instalar todas as bibliotecas necessárias:
+```bash
+pip install -r libs/requeriments.txt
+```
+📌 [Lista de Bibliotecas](libs/requeriments.txt)
 
-## [Bibliotecas utilizadas ✔️](libs/requeriments.txt)
+---
 
+## 🚀 Como Executar os Notebooks
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
+   ```
+2. Acesse a pasta do projeto:
+   ```bash
+   cd seu-repositorio
+   ```
+3. Instale as dependências:
+   ```bash
+   pip install -r libs/requeriments.txt
+   ```
+4. Execute o Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   ```
 
+Agora, basta abrir qualquer notebook e rodar os experimentos! 🎯
 
