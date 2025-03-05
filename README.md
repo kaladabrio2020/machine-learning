@@ -9,26 +9,10 @@ Pegando vários dataset para fazer a previsão e a classificação de atributos 
 ## Datasets
 
 ### [Preço de Casas Regressão ✔️](/ml-regression/housePrice_reg.ipynb)
-* Pré-processamento 
-* BaseEstimator,TransformMixin
-* Pipeline
-* Cross-validation
-* Redes Neurais (`keras`)
 
 
 ### [Diabetes Classificação ✔️](/ml-classification/diabetes_clas.ipynb)
 
-__O que é diabetes ?__ É uma condição que afeta a regulação do açúcar no sangue. \
-No Conjunto de dados , o atributo alvo é `diabetes` contendo o valores não tem diabetes ( `0` ) e  tem diabetes ( `1` ).
-
-O que fiz na Classifacação :
-* Tratamento de dados
-* Correlação de atributos
-* Pré-processamento 
-* Definindo hyperametros com o GridSearchCv
-* Escolha do melhor algoritmos
-* Redes Neurais (`keras`)
-> Obtive bons resultado
 
 
 ### [Cripto Prices Regression]
@@ -41,30 +25,18 @@ Feito de duas formas (...em progresso)
     
 
 ### [Acidente Vacular Celebral Classificação ✔️](/ml-classification/stroke_clas.ipynb)
-O que fiz na Classifacação :
-* Tratamento de dados
-* Discretização dos atributo `bmi`     (parte 1)
-* Sem discretização dos atributo `bmi` (parte 2)
-* Correlação de atributos
-* Pré-processamento 
-* Definindo hyperametros com o GridSearchCv
-* Escolha do melhor algoritmos
 
 
 ### [Titanic Sobreviventes Classificação ✔️](/ml-classification/titanic_clas.ipynb)
-* Pré-processamento
-* Pipeline
-* Cross-Validation 
-
-### [Disturbio do Sono(projeto muito antigo)](/ml-classification/DisturbioDoSono_clas.ipynb)
-
-### [Heath Attack Classificação](HousePricePred-Reg.ipynb)
-* Pré-processamento
-* Pipeline
-* Ensemble
-* Cross-validation
 
 
+### [Disturbio do Sono(projeto muito antigo) ✔️](/ml-classification/DisturbioDoSono_clas.ipynb)
+
+
+
+### [Heath Attack Classificação](/ml-regression/housePrice_reg.ipynb)
+
+### 
 
 
 ## Tecnologias e ferramentas
