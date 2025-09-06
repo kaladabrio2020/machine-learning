@@ -28,6 +28,11 @@ Este repositório contém implementações de diversos modelos de Machine Learni
 ### 🌙 Distúrbio do Sono *(Projeto antigo)* ✔️
 📌 [Notebook](ml-classification/DisturbioDoSono_clas.ipynb)
 
+### 📉 Previsão da taxa de desemprego dos estados unidos (Séries temporais) ✔️
+
+📌 [Notebook R](/ml-time-series/unrate_r.ipynb)
+
+📌 [Notebook python](/ml-time-series/unrate_py.ipynb)
 
 
 ---
@@ -49,26 +54,3 @@ Para instalar todas as bibliotecas necessárias:
 pip install -r libs/requeriments.txt
 ```
 📌 [Lista de Bibliotecas](libs/requeriments.txt)
-
----
-
-## 🚀 Como Executar os Notebooks
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   ```
-2. Acesse a pasta do projeto:
-   ```bash
-   cd seu-repositorio
-   ```
-3. Instale as dependências:
-   ```bash
-   pip install -r libs/requeriments.txt
-   ```
-4. Execute o Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-
-Agora, basta abrir qualquer notebook e rodar os experimentos! 🎯
-
