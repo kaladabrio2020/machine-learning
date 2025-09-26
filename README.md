@@ -28,12 +28,16 @@ Este repositório contém implementações de diversos modelos de Machine Learni
 ### 🌙 Distúrbio do Sono *(Projeto antigo)* ✔️
 📌 [Notebook](ml-classification/DisturbioDoSono_clas.ipynb)
 
-### 📉 Previsão da taxa de desemprego dos estados unidos (Séries temporais) ✔️
+## 📉 Previsão da taxa de desemprego dos estados unidos (Séries temporais) ✔️
 
 📌 [Notebook R](/ml-time-series/unrate_r.ipynb)
-
+  * Taxa de desemprego dos estados unidos
+   
 📌 [Notebook python](/ml-time-series/unrate_py.ipynb)
+  * Taxa de desemprego dos estados unidos
 
+📌 [Notebook python](/ml-time-series/temperature_py.ipynb)
+  *  Predição de temperatura
 
 ---
 
