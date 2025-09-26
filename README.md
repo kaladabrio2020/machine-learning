@@ -39,6 +39,9 @@ Este repositório contém implementações de diversos modelos de Machine Learni
 📌 [Notebook python](/ml-time-series/temperature_py.ipynb)
   *  Predição de temperatura
 
+## Clustering 
+📌 [Notebook python](/ml-cluster-agrupamento/pair_trading_crypto.ipynb)
+  *  Pair Trading Crypto
 ---
 
 ## 🛠 Tecnologias e Ferramentas Utilizadas
