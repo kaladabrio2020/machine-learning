@@ -2,47 +2,52 @@
     <img src="https://images.pexels.com/photos/4578660/pexels-photo-4578660.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" height="300" />
 </div>
 
-# 📌 Machine Learning Project
-Este repositório contém implementações de diversos modelos de Machine Learning aplicados a diferentes conjuntos de dados para resolver problemas de **classificação** e **regressão**.
+# Machine Learning Project
 
-## 📂 Datasets Utilizados
+Repositório com implementações de modelos de Machine Learning aplicados a diferentes conjuntos de dados para problemas de classificação e regressão.
 
-### 🏡 Previsão de Preço de Casas (Regressão) ✔️
-📌 [Notebook](ml-regression/housePrice_reg.ipynb)
+## Datasets e Notebooks
 
-### 🏥 Diagnóstico de Diabetes (Classificação) ✔️
-📌 [Notebook](ml-classification/diabetes_clas.ipynb)
+### Previsão de Preço de Casas (Regressão)
 
-### 📉 Previsão de Preços de Criptomoedas (Regressão) ⚙️ *(Em progresso)*
-* **Método 1:** [Notebook](ml-regression/cryptoPrices_reg1.ipynb)  
-  * Os dados foram agrupados para evitar desbalanceamento.
-* **Método 2:** [Notebook](ml-regression/cryptoPrices_reg2.ipynb)  
-  * Cada conjunto de dados possui sua própria predição.
+* [Notebook](ml-regression/housePrice_reg.ipynb)
 
-### 🧠 Acidente Vascular Cerebral (Classificação) ✔️
-📌 [Notebook](ml-classification/stroke_clas.ipynb)
+### Diagnóstico de Diabetes (Classificação)
 
-### 🚢 Sobreviventes do Titanic (Classificação) ✔️
-📌 [Notebook](ml-classification/titanic_clas.ipynb)
+* [Notebook](ml-classification/diabetes_clas.ipynb)
 
-### 🌙 Distúrbio do Sono *(Projeto antigo)* ✔️
-📌 [Notebook](ml-classification/DisturbioDoSono_clas.ipynb)
+### Previsão de Preços de Criptomoedas (Regressão) *(Em progresso)*
 
-## 📉 Previsão da taxa de desemprego dos estados unidos (Séries temporais) ✔️
+* Método 1: [Notebook](ml-regression/cryptoPrices_reg1.ipynb) – dados agrupados para evitar desbalanceamento.
+* Método 2: [Notebook](ml-regression/cryptoPrices_reg2.ipynb) – cada conjunto de dados com predição própria.
 
-📌 [Notebook R](/ml-time-series/unrate_r.ipynb)
-  * Taxa de desemprego dos estados unidos
-   
-📌 [Notebook python](/ml-time-series/unrate_py.ipynb)
-  * Taxa de desemprego dos estados unidos
+### Acidente Vascular Cerebral (Classificação)
 
-📌 [Notebook python](/ml-time-series/temperature_py.ipynb)
-  *  Predição de temperatura
+* [Notebook](ml-classification/stroke_clas.ipynb)
 
-## Clustering 
-📌 [Notebook python](/ml-cluster-agrupamento/pair_trading_crypto.ipynb)
-  *  Pair Trading Crypto
----
+### Sobreviventes do Titanic (Classificação)
+
+* [Notebook](ml-classification/titanic_clas.ipynb)
+
+### Distúrbio do Sono *(Projeto antigo)*
+
+* [Notebook](ml-classification/DisturbioDoSono_clas.ipynb)
+
+## Séries Temporais
+
+### Previsão da taxa de desemprego dos EUA
+
+* [Notebook R](ml-time-series/unrate_r.ipynb)
+* [Notebook Python](ml-time-series/unrate_py.ipynb)
+
+### Predição de temperatura
+
+* [Notebook Python](ml-time-series/temperature_py.ipynb)
+
+## Clustering
+
+* [Pair Trading Crypto](ml-cluster-agrupamento/pair_trading_crypto.ipynb)
+
 
 ## 🛠 Tecnologias e Ferramentas Utilizadas
 
